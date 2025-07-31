@@ -1,0 +1,1 @@
+from .getPost import test_get_products
